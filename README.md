@@ -36,4 +36,4 @@ This Google Apps Script automatically sends a customized welcome email to users 
 
 ## 📧 Example Email Output
 
-The example as per shown in example.jpg
+![Example Email](./example.jpg)
